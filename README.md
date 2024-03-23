@@ -3,7 +3,7 @@ Projet personnel d'un linktree conçu afin de rediriger vers mes différents ré
 (Personal project of a linktree designed to redirect to my different networks)
 
 ## Demo
-https://alexis-feron.github.io/linktree/
+https://links.alexis-feron.com/
 
 ## Author
 - [Alexis Feron](https://www.github.com/alexis-feron)
